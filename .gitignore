@@ -2,3 +2,6 @@
 venv
 app/__pycache__/
 app/main/__pycache__/
+app/main/model/__pycache__/
+migrations/
+app/main/flask_boilerplate_main.db
