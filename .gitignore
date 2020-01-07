@@ -5,3 +5,5 @@ app/main/__pycache__/
 app/main/model/__pycache__/
 migrations/
 app/main/flask_boilerplate_main.db
+__pycache__/
+app/test/__pycache__/
